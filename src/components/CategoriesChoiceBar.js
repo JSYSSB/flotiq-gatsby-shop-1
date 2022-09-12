@@ -1,6 +1,5 @@
 import React from 'react';
 
-
 const CategoriesChoiceBar = ({ additionalClass, categoryTabs }) => {
     function classNames(...classes) {
         return classes.filter(Boolean).join(' ');

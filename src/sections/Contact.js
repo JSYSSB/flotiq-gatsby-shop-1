@@ -155,7 +155,7 @@ const Contact = ({
                     {formHeaderText}
                 </Header>
                 <form
-                    action="#"
+                    action="https://getform.io/f/ac18c116-4058-4a4c-8ced-00953eefe7d0"
                     method="POST"
                     className="font-light flex flex-col"
                 >

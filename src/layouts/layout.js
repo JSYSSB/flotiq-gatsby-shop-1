@@ -1,7 +1,7 @@
 import React from 'react';
 import { Helmet } from 'react-helmet';
 import Header from '../components/Header';
-import Footer from '../components/Footer';
+// import Footer from '../components/Footer';
 import Contact from '../sections/Contact';
 import Logo from '../assets/shop-logo.svg';
 
@@ -25,7 +25,7 @@ const Layout = ({ children, additionalClass = [] }) => (
             address="Some Street"
             emailAddress="someemial.outlook.com"
         />
-        <Footer />
+        // <Footer />
     </main>
 );
 
